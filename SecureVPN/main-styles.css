@@ -1,0 +1,160 @@
+:root {
+    --primary-color:#693BFE ;
+    --secondary-color: #5CFFF3;
+}
+.primary{
+    color: var(--primary-color);
+}
+.secondary{
+    color: var(--secondary-color);
+}
+.white{
+    color: white;
+}
+@font-face {
+    font-family: Gilroy;
+    src: url("fonts/Gilroy-ExtraBold.otf");
+    font-weight: bold;
+    font-display: swap;
+  }
+@font-face {
+    font-family: GilroyLight;
+    src: url("fonts/Gilroy-Light.otf");
+    font-weight: normal;
+    font-display: swap;
+  }
+@font-face {
+    font-family: Outfit;
+    src: url("fonts/Outfit-Regular.otf");
+    font-weight: normal;
+    font-display: swap;
+  }
+  .ta-c{
+    text-align: center;
+  }
+  .ta-s{
+    text-align: start;
+  }
+ 
+  .outfit{
+    font-family: Outfit;
+}
+  .gilroy{
+    font-family: Gilroy;
+  
+}
+.gilroylight{
+    font-family: GilroyLight;
+}
+.sofiaregular{
+    font-family: sofia-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+.sofialight{
+    font-family: sofia-pro, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+
+}
+.sofiabold{
+    font-family: sofia-pro, sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-display: swap;
+
+}
+.sofiamedium{
+    font-family: sofia-pro, sans-serif;
+    font-weight: 500;
+    font-style: bold;
+    font-display: swap;
+
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.o-80{
+    opacity: .8;
+}
+.o-70{
+    opacity: .70;
+}
+.o-20{
+    opacity: .2;
+}
+.fz-14 {
+    font-size: 1.4rem;
+}
+
+.fz-16 {
+    font-size: 1.6rem;
+}
+
+.fz-18 {
+    font-size: 1.8rem;
+}
+
+.fz-20 {
+    font-size: 2rem;
+}
+
+.fz-22 {
+    font-size: 2.2rem;
+}
+
+.fz-24 {
+    font-size: 2.4rem;
+}
+
+.fz-26 {
+    font-size: 2.6rem;
+}
+
+.fz-28 {
+    font-size: 2.8rem;
+}
+
+.fz-30 {
+    font-size: 3rem;
+}
+
+.fz-32 {
+    font-size: 3.2rem;
+}
+
+.fz-34 {
+    font-size: 3.4rem;
+}
+.fz-35 {
+    font-size: 3.5rem;
+}
+
+.fz-36 {
+    font-size: 3.6rem;
+}
+
+.fz-38 {
+    font-size: 3.8rem;
+}
+
+.fz-40 {
+    font-size: 4.0rem;
+}
+.fz-44{
+    font-size: 4.4rem;
+}
+.fz-50{
+    font-size: 5rem;
+}
+.fz-80{
+    font-size: 8rem;
+}
+.fz-85{
+    font-size: 8.5rem;
+}
+.fz-95{
+    font-size: 9.5rem;
+}
